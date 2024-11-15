@@ -1,4 +1,4 @@
-<h2 align="left">Seja bem-vind@ ao meu perfil!<br>Me chamo Carlos, estudo matemática aplicada e computacional na UNICAMP.<br><br>Este perfil é dedicado à data science, biomatemática e bioinformática, computação científica e possíveis projetos pararelos.</h2>
+<h2 align="left">Seja bem-vind@ ao meu perfil!<br>Me chamo Carlos, estudo matemática aplicada e computacional na UNICAMP.<br><br>Este perfil é dedicado à data science, biomatemática e bioinformática, computação científica e possíveis projetos paralelos.</h2>
 
 ###
 
